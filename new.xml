@@ -1,6 +1,6 @@
-<xml>
-    <Name>Mishura Ekaterina Vitalevna</Name>
+<information_about me>
+    fullName>Mishura Ekaterinaa</fullName>
     <Age>32</Age>
-    <Dog>one</Dog>
-    <salary>500$</salary>
-</xml>
+    <number_of_pets>1</number_of pets>
+    <future_desired_salary>500$</salary>
+</information_about_me>
